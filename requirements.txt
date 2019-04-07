@@ -1,0 +1,6 @@
+pandas
+jupyter
+numpy
+time
+requests
+folium

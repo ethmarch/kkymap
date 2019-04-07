@@ -1,0 +1,331 @@
+Chapter,Institution,Location,District,Charter Date,Status
+Alpha,Oklahoma State University,"Stillwater, Oklahoma",Southwest,"November 27, 1919",Active
+Beta,Montana State University,"Bozeman, Montana",Midwest,"December 17, 1920",Active
+Gamma,University of Washington,"Seattle, Washington",Western,"December 16, 1920July 10, 1993*",Active
+Delta,University of Oklahoma,"Norman, Oklahoma",Southwest,"May 21, 1921",Active
+Epsilon,Mississippi State University,"Starkville, Mississippi",Southeast,"April 20, 1923April 20, 1994*",Active
+Zeta,Pennsylvania State University,"State College, Pennsylvania",Northeast,"April 25, 1923",Inactive
+Eta,Ohio State University,"Columbus, Ohio",North Central,"April 26, 1923",Active
+Theta,Oregon State University,"Corvallis, Oregon",Western,"May 12, 1923January 3, 2009*",Active
+Iota,Georgia Institute of Technology,"Atlanta, Georgia",Southeast,"April 21, 1924",Active
+Kappa,Colorado State University,"Fort Collins, Colorado",Midwest,"May 31, 1924",Inactive
+Lambda,University of Arkansas,"Fayetteville, Arkansas",Southwest,"June 5, 1924",Active
+Mu,University of North Dakota,"Grand Forks, North Dakota",Midwest,"May 31, 1925",Inactive
+Nu,University of Michigan,"Ann Arbor, Michigan",North Central,"June 12, 1925",Active
+Xi,Colorado School of Mines,"Golden, Colorado",Midwest,"November 21, 1925",Active
+Omicron,West Virginia University,"Morgantown, West Virginia",Northeast,"June 17, 1926",Active
+Pi,Auburn University,"Auburn, Alabama",Southeast,"May 18, 1926June 6, 1992*",Active
+Rho,Tulane University,"New Orleans, Louisiana",Southwest,"October 18, 1926February 20, 2010*",Active
+Sigma,Ohio Northern University,"Ada, Ohio",North Central,"May 23, 1927",Active
+Tau,University of Montana,"Missoula, Montana",Midwest,"June 2, 1928",Inactive
+Upsilon,University of Cincinnati,"Cincinnati, Ohio",North Central,"June 11, 1928",Inactive
+Phi,Stanford University,"Palo Alto, California",Western,"March 20, 1929",Inactive
+Chi,"University of California, Berkeley","Berkeley, California",Western,"April 20, 1929",Inactive
+Psi,"University of California, Los Angeles","Los Angeles, California",Western,"May 4, 1929",Active
+Omega,University of Arizona,"Tucson, Arizona",Western,"May 7, 1929",Inactive
+Alpha Alpha,University of Nevada,"Reno, Nevada",Western,"May 14, 1929October 25, 2014*",Active
+Alpha Beta,Butler University,"Indianapolis, Indiana",North Central,"May 31, 1929April 2, 1977*",Active
+Alpha Gamma,Duke University,"Durham, North Carolina",Southeast,"June 2, 1929",Inactive
+Alpha Delta,Ohio University,"Athens, Ohio",North Central,"May 17, 1931",Active
+Alpha Epsilon,Temple University,"Philadelphia, Pennsylvania",Northeast,"May 21, 1931March 25, 1987*",Inactive
+Alpha Zeta,Indiana University,"Bloomington, Indiana",North Central,"May 27, 1931",Active
+Alpha Eta,University of Florida,"Gainesville, Florida",Southeast,"May 25, 1931",Active
+Alpha Theta,University of Northern Colorado,"Greeley, Colorado",Midwest,"June 6, 1931",Active
+Alpha Iota,University of Colorado,"Boulder, Colorado",Midwest,"June 7, 1931",Active
+Alpha Kappa,George Washington University,"Washington, D.C.",Northeast,"December 4, 1933April 25, 1992*",Inactive
+Alpha Lambda,University of Denver,"Denver, Colorado",Midwest,"June 8, 1934",Inactive
+Alpha Mu,North Dakota State University,"Fargo, North Dakota",Midwest,"May 5, 1935",Inactive
+Alpha Nu,University of Wyoming,"Laramie, Wyoming",Midwest,"May 12, 1935April 14, 1967*",Active
+Alpha Xi,Stetson University,"DeLand, Florida",Southeast,"December 14, 1935",Inactive
+Alpha Omicron,Texas Tech University,"Lubbock, Texas",Southwest,"March 12, 1938",Active
+Alpha Pi,University of Tulsa,"Tulsa, Oklahoma",Southwest,"March 18, 1938",Inactive
+Alpha Rho,Northeastern State University,"Tahlequah, Oklahoma",Southwest,"May 2, 1938",Inactive
+Alpha Sigma,University of Tampa,"Tampa, Florida",Southeast,"May 11, 1941May 19, 2011*",Active
+Alpha Tau,University of Texas at Austin,"Austin, Texas",Southwest,"May 18, 1940",Active
+Alpha Upsilon,University of Southern California,"Los Angeles, California",Western,"April 11, 1942June 18, 1972*",Inactive
+Alpha Phi,Rutgers University,"New Brunswick, New Jersey",Northeast,"April 16, 1942",Inactive†
+Alpha Chi,University of Texas at El Paso,"El Paso, Texas",Southwest,"April 5, 1947",Active
+Alpha Psi,West Texas A&M University,"Canyon, Texas",Southwest,"October 25, 1947",Active
+Alpha Omega,University of Pittsburgh,"Pittsburgh, Pennsylvania",Northeast,"February 14, 1948April 14, 1996*",Active
+Beta Alpha,Baylor University,"Waco, Texas",Southwest,"February 14, 1948",Active
+Beta Beta,University of Mississippi,"Oxford, Mississippi",Southeast,"April 26, 1948February 23, 1974*",Inactive
+Beta Gamma,Louisiana State University,"Baton Rouge, Louisiana",Southwest,"May 16, 1948",Active
+Beta Delta,Sam Houston State University,"Huntsville, Texas",Southwest,"May 15, 1948",Inactive
+Beta Epsilon,University of South Dakota,"Vermillion, South Dakota",Midwest,"November 7, 1948",Inactive
+Beta Zeta,Long Island University,"Brooklyn, New York",Northeast,"February 11, 1949",Inactive
+Beta Eta,University of Tennessee,"Knoxville, Tennessee",Southeast,"March 20, 1949",Inactive
+Beta Theta,University of Utah,"Salt Lake City, Utah",Western,"April 30, 1949",Inactive
+Beta Iota,Nebraska Wesleyan University,"Lincoln, Nebraska",Midwest,"April 23, 1949",Inactive
+Beta Kappa,Bowling Green State University,"Bowling Green, Ohio",North Central,"April 17, 1949",Active
+Beta Lambda,Eastern New Mexico University,"Portales, New Mexico",Southwest,"May 8, 1949",Active
+Beta Mu,Emory University,"Atlanta, Georgia",Southeast,"May 30, 1949",Inactive
+Beta Nu,VanderCook College of Music,"Chicago, Illinois",North Central,"December 19, 1949",Inactive
+Beta Xi,Sul Ross State University,"Alpine, Texas",Southwest,"December 4, 1949",Inactive
+Beta Omicron,Arizona State University,"Tempe, Arizona",Western,"November 13, 1949",Active
+Beta Pi,Drury University,"Springfield, Missouri",Midwest,"December 17, 1949May 13, 1967*",Inactive
+Beta Rho,University of Toledo,"Toledo, Ohio",North Central,"January 15, 1950April 1, 1990*",Active
+Beta Sigma,University of Houston,"Houston, Texas",Southwest,"January 21, 1950",Active
+Beta Tau,Wichita State University,"Wichita, Kansas",Midwest,"January 19, 1950",Probation
+Beta Upsilon,Abilene Christian University,"Abilene, Texas",Southwest,"March 25, 1950",Inactive
+Beta Phi,Southern Methodist University,"Dallas, Texas",Southwest,"March 25, 1950",Inactive
+Beta Chi,University of Virginia,"Charlottesville, Virginia",Northeast,"September 23, 1950April 23, 2005*",Active
+Beta Psi,Kent State University,"Kent, Ohio",North Central,"February 25, 1951",Active
+Beta Omega,Case Western Reserve University,"Cleveland, Ohio",North Central,"May 20, 1951",Inactive
+Gamma Alpha,Midwestern State University,"Wichita Falls, Texas",Southwest,"May 5, 1951February 22, 2009*",Active
+Gamma Beta,Brigham Young University–Idaho,"Rexburg, Idaho",Western,"May 3, 1952",Inactive
+Gamma Gamma,Oklahoma Panhandle State University,"Goodwell, Oklahoma",Southwest,"May 22, 1952",Inactive
+Gamma Delta,Wayne State College,"Wayne, Nebraska",Midwest,"March 21, 1953October 26, 1967*",Active
+Gamma Epsilon,Hobart College,"Geneva, New York",Northeast,"May 30, 1953",Inactive
+Gamma Zeta,Lamar University,"Beaumont, Texas",Southwest,"March 18, 1954May 14, 1985*",Active
+Gamma Eta,New Mexico State University,"Las Cruces, New Mexico",Southwest,"May 16, 1954November 15, 2015*",Active
+Gamma Theta,East Central University,"Ada, Oklahoma",Southwest,"May 9, 1954October 3, 1985*",Active
+Gamma Iota,University of New Mexico,"Albuquerque, New Mexico",Southwest,"May 23, 1954May 15, 1999*",Active
+Gamma Kappa,Northern Arizona University,"Flagstaff, Arizona",Western,"May 9, 1954",Active
+Gamma Lambda,Doane College,"Crete, Nebraska",Midwest,"May 16, 1954February 6, 1971*",Inactive
+Gamma Mu,University of Pennsylvania,"Philadelphia, Pennsylvania",Northeast,"June 5, 1954",Inactive
+Gamma Nu,Florida State University,"Tallahassee, Florida",Southeast,"May 14, 1955",Active
+Gamma Xi,University of Maryland,"College Park, Maryland",Northeast,"May 14, 1955",Inactive
+Gamma Omicron,Otterbein University,"Westerville, Ohio",North Central,"January 31, 1956February 26, 2011*",Active
+Gamma Pi,Purdue University,"West Lafayette, Indiana",North Central,"March 18, 1956",Active
+Gamma Rho,New Mexico Highlands University,"Las Vegas, New Mexico",Southwest,"June 1, 1956",Inactive
+Gamma Sigma,Texas Christian University,"Fort Worth, Texas",Southwest,"February 9, 1957",Active
+Gamma Tau,Lycoming College,"Williamsport, Pennsylvania",Northeast,"April 6, 1957",Inactive
+Gamma Upsilon,Ohio Wesleyan University,"Delaware, Ohio",North Central,"May 19, 1957May 18, 1969*",Inactive
+Gamma Phi,Stephen F. Austin State University,"Nacogdoches, Texas",Southwest,"May 1, 1957March 23, 1972*",Active
+Gamma Chi,University of Southern Mississippi,"Hattiesburg, Mississippi",Southeast,"May 17, 1957May 11, 2013*",Active
+Gamma Psi,The College of William & Mary,"Williamsburg, Virginia",Northeast,"May 4, 1957",Inactive
+Gamma Omega,Texas Southern University,"Houston, Texas",Southwest,"May 22, 1957October 29, 1972*",Active
+Delta Alpha,Langston University,"Langston, Oklahoma",Southwest,"May 19, 1957December 12, 1991*",Active
+Delta Beta,Baldwin–Wallace College,"Berea, Ohio",North Central,"November 17, 1957",Inactive
+Delta Gamma,Missouri University of Science and Technology,"Rolla, Missouri",Midwest,"March 9, 1958",Active
+Delta Delta,Arkansas Tech University,"Russellville, Arkansas",Southwest,"March 14, 1958",Inactive
+Delta Epsilon,Samford University,"Birmingham, Alabama",Southeast,"May 6, 1958December 1, 1979*",Inactive
+Delta Zeta,Cornell University,"Ithaca, New York",Northeast,"March 18, 1959",Inactive
+Delta Eta,Pittsburg State University,"Pittsburg, Kansas",Midwest,"April 12, 1959April 14, 2001*",Inactive
+Delta Theta,Jacksonville University,"Jacksonville, Florida",Southeast,"May 2, 1959",Inactive
+Delta Iota,Florida A&M University,"Tallahassee, Florida",Southeast,"May 26, 1960",Inactive
+Delta Kappa,South Dakota State University,"Brookings, South Dakota",Midwest,"May 14, 1961May 1, 2010*",Inactive
+Delta Lambda,Eastern Washington University,"Cheney, Washington",Western,"August 25, 1961",Inactive
+Delta Mu,Humboldt State University,"Arcata, California",Western,"January 6, 1962",Inactive
+Delta Nu,University of Charleston,"Charleston, West Virginia",Northeast,"January 7, 1962",Inactive
+Delta Xi,Emporia State University,"Emporia, Kansas",Midwest,"April 6, 1962",Active
+Delta Omicron,University of Connecticut,"Storrs, Connecticut",Northeast,"May 19, 1962",Active
+Delta Pi,Mississippi Valley State University,"Itta Bena, Mississippi",Southeast,"May 5, 1962December 6, 1992*December 8, 2007*",Active
+Delta Rho,Arkansas State University,"Jonesboro, Arkansas",Southwest,"March 7, 1964",Inactive
+Delta Sigma,University of Texas at Arlington,"Arlington, Texas",Southwest,"March 15, 1964",Active
+Delta Tau,Adams State College,"Alamosa, Colorado",Midwest,"May 16, 1964",Inactive
+Delta Upsilon,Eastern Michigan University,"Ypsilanti, Michigan",North Central,"May 16, 1965",Active
+Delta Phi,Xavier University,"Cincinnati, Ohio",North Central,"October 9, 1965",Inactive
+Delta Chi,Southern Arkansas University,"Magnolia, Arkansas",Southwest,"February 12, 1966June 3, 2001*",Active
+Delta Psi,Prairie View A&M University,"Prairie View, Texas",Southwest,"April 17, 1966January 29, 1983*",Active
+Delta Omega,Ferris State University,"Big Rapids, Michigan",North Central,"May 22, 1966September 25, 2011*",Active
+Epsilon Alpha,University of Arkansas at Little Rock,"Little Rock, Arkansas",Southwest,"February 17, 1967",Inactive
+Epsilon Beta,University of Central Arkansas,"Conway, Arkansas",Southwest,"February 17, 1967",Active
+Epsilon Gamma,Alabama State University,"Montgomery, Alabama",Southeast,"April 8, 1967",Inactive
+Epsilon Delta,Texas A&M University–Kingsville,"Kingsville, Texas",Southwest,"May 13, 1967",Active
+Epsilon Epsilon,Southwestern Oklahoma State University,"Weatherford, Oklahoma",Southwest,"May 26, 1967",Active
+Epsilon Zeta,Oklahoma Baptist University,"Shawnee, Oklahoma",Southwest,"May 23, 1967",Active
+Epsilon Eta,Western State College,"Gunnison, Colorado",Midwest,"May 21, 1967",Inactive
+Epsilon Theta,University of Louisiana at Monroe,"Monroe, Louisiana",Southwest,"April 20, 1968",Active
+Epsilon Iota,Mansfield University of Pennsylvania,"Mansfield, Pennsylvania",Northeast,"October 6, 1968",Active
+Epsilon Kappa,Angelo State University,"San Angelo, Texas",Southwest,"December 6, 1968",Active
+Epsilon Lambda,Western Carolina University,"Cullowhee, North Carolina",Southeast,"February 23, 1969",Active
+Epsilon Mu,Wayland Baptist University,"Plainview, Texas",Southwest,"May 16, 1969",Inactive
+Epsilon Nu,University of Massachusetts Amherst,"Amherst, Massachusetts",Northeast,"May 16, 1969",Active
+Epsilon Xi,Miami University,"Oxford, Ohio",North Central,"March 13, 1970",Active
+Epsilon Omicron,Wagner College,"Staten Island, New York",Northeast,"March 22, 1970",Inactive
+Epsilon Pi,Kansas State University,"Manhattan, Kansas",Midwest,"April 4, 1970",Active
+Epsilon Rho,Grambling State University,"Grambling, Louisiana",Southwest,"April 7, 1970",Active
+Epsilon Sigma,"California State University, Sacramento","Sacramento, California",Western,"April 11, 1970",Inactive
+Epsilon Tau,Oral Roberts University,"Tulsa, Oklahoma",Southwest,"April 25, 1970",Inactive
+Epsilon Upsilon,University of Maine,"Orono, Maine",Northeast,"May 9, 1970",Active
+Epsilon Phi,Clarion University of Pennsylvania,"Clarion, Pennsylvania",Northeast,"May 16, 1970",Active
+Epsilon Chi,University of Arkansas at Pine Bluff,"Pine Bluff, Arkansas",Southwest,"November 15, 1970",Active
+Epsilon Psi,Missouri State University,"Springfield, Missouri",Midwest,"November 21, 1970April 26, 1998*",Active
+Epsilon Omega,University of Nebraska–Lincoln,"Lincoln, Nebraska",Midwest,"February 5, 1971April 25, 1998*",Active
+Zeta Alpha,Bloomsburg University of Pennsylvania,"Bloomsburg, Pennsylvania",Northeast,"February 14, 1971June 8, 2003*",Active
+Zeta Beta,Howard Payne University,"Brownwood, Texas",Southwest,"February 27, 1971",Active
+Zeta Gamma,Texas Lutheran University,"Seguin, Texas",Southwest,"March 21, 1971",Active
+Zeta Delta,Southwest Baptist University,"Bolivar, Missouri",Midwest,"May 3, 1971",Inactive
+Zeta Epsilon,Michigan State University,"East Lansing, Michigan",North Central,"June 6, 1971",Active
+Zeta Zeta,University of Arkansas at Monticello,"Monticello, Arkansas",Southwest,"December 4, 1971",Active
+Zeta Eta,South Carolina State University,"Orangeburg, South Carolina",Southeast,"December 14, 1971",Active
+Zeta Theta,West Virginia University Institute of Technology,"Montgomery, West Virginia",Northeast,"April 16, 1972February 26, 1988*",Inactive
+Zeta Iota,Lane College,"Jackson, Tennessee",Southeast,"May 13, 1972",Inactive
+Zeta Kappa,Texas A&M University–Commerce,"Commerce, Texas",Southwest,"November 19, 1972",Active
+Zeta Lambda,Marshall University,"Huntington, West Virginia",North Central,"December 3, 1972October 23, 1994*",Active
+Zeta Mu,Kutztown University of Pennsylvania,"Kutztown, Pennsylvania",Northeast,"January 20, 1973",Inactive
+Zeta Nu,Southern University,"Baton Rouge, Louisiana",Southwest,"May 12, 1973May 5, 2002*",Inactive
+Zeta Xi,Tyler Junior College,"Tyler, Texas",Southwest,"May 5, 1973May 24, 2005*",Active
+Zeta Omicron,University of Akron,"Akron, Ohio",North Central,"May 27, 1973",Active
+Zeta Pi,Tennessee State University,"Nashville, Tennessee",Southeast,"June 10, 1973",Inactive
+Zeta Rho,Modesto Junior College,"Modesto, California",Western,"June 17, 1973August 24, 1996*",Inactive
+Zeta Sigma,North Carolina Central University,"Durham, North Carolina",Southeast,"February 9, 1974",Active
+Zeta Tau,Cameron University,"Lawton, Oklahoma",Southwest,"May 10, 1974",Active
+Zeta Upsilon,Troy University,"Troy, Alabama",Southeast,"May 18, 1974",Active
+Zeta Phi,Tuskegee University,"Tuskegee, Alabama",Southeast,"November 2, 1974",Active
+Zeta Chi,University of South Carolina,"Columbia, South Carolina",Southeast,"November 24, 1974",Active
+Zeta Psi,Virginia State University,"Petersburg, Virginia",Northeast,"February 1, 1975October 8, 2000*",Active
+Zeta Omega,Weber State University,"Ogden, Utah",Western,"May 29, 1975",Inactive
+Eta Alpha,Lock Haven University of Pennsylvania,"Lock Haven, Pennsylvania",Northeast,"October 19, 1975",Active
+Eta Beta,Virginia Polytechnic Institute and State University,"Blackburg, Virginia",Northeast,"April 3, 1976",Active
+Eta Gamma,Morgan State University,"Baltimore, Maryland",Northeast,"April 24, 1976",Active
+Eta Delta,Eastern Illinois University,"Charleston, Illinois",North Central,"December 13, 1976",Active
+Eta Epsilon,Illinois State University,"Normal, Illinois",North Central,"April 16, 1977",Inactive
+Eta Zeta,University of Kansas,"Lawrence, Kansas",Midwest,"May 7, 1977",Active
+Eta Eta,Jackson State University,"Jackson, Mississippi",Southeast,"October 28, 1977",Inactive
+Eta Theta,Nicholls State University,"Thibodaux, Louisiana",Southwest,"April 9, 1978",Inactive
+Eta Iota,Bethune-Cookman University,"Daytona Beach, Florida",Southeast,"February 18, 1978",Inactive
+Eta Kappa,Albany State University,"Albany, Georgia",Southeast,"May 20, 1978March 2, 1997*",Active
+Eta Lambda,Carson–Newman College,"Jefferson City, Tennessee",Southeast,"October 7, 1978",Inactive
+Eta Mu,San Diego State University,"San Diego, California",Western,"December 16, 1978",Inactive
+Eta Nu,Southeastern Oklahoma State University,"Durant, Oklahoma",Southwest,"February 17, 1979December 7, 2000*",Active
+Eta Xi,Louisiana Tech University,"Ruston, Louisiana",Southwest,"March 15, 1980",Active
+Eta Omicron,James Madison University,"Harrisonburg, Virginia",Northeast,"November 9, 1980",Active
+Eta Pi,University of Northern Iowa,"Cedar Falls, Iowa",Midwest,"October 3, 1981",Active
+Eta Rho,West Chester University of Pennsylvania,"West Chester, Pennsylvania",Northeast,"November 22, 1981",Active
+Eta Sigma,University of Central Florida,"Orlando, Florida",Southeast,"April 23, 1982",Active
+Eta Tau,Allegheny College,"Meadville, Pennsylvania",Northeast,"April 25, 1982",Inactive
+Eta Upsilon,University of Missouri,"Columbia, Missouri",Midwest,"May 1, 1982",Active
+Eta Phi,Syracuse University,"Syracuse, New York",Northeast,"December 4, 1982",Active
+Eta Chi,Bowie State University,"Bowie, Maryland",Northeast,"May 1, 1983June 19, 1997*May 30, 2009*",Active
+Eta Psi,Delaware State University,"Dover, Delaware",Northeast,"May 8, 1983June 13, 2003*",Inactive
+Eta Omega,Howard University,"Washington, D.C.",Northeast,"February 4, 1984",Active
+Theta Alpha,Texas State University,"San Marcos, Texas",Southwest,"February 19, 1984",Active
+Theta Beta,Boston University,"Boston, Massachusetts",Northeast,"March 29, 1984",Active
+Theta Gamma,California University of Pennsylvania,"California, Pennsylvania",Northeast,"May 11, 1984",Active
+Theta Delta,Central State University,"Wilberforce, Ohio",North Central,"June 1, 1984February 12, 2005*",Inactive
+Theta Epsilon,University of Kentucky,"Lexington, Kentucky",North Central,"October 6, 1984",Active
+Theta Zeta,Ashland University,"Ashland, Ohio",North Central,"February 2, 1985",Active
+Theta Eta,University of Louisville,"Louisville, Kentucky",North Central,"June 20, 1985April 22, 2001*",Inactive
+Theta Theta,University of Alabama at Birmingham,"Birmingham, Alabama",Southeast,"February 21, 1986May 15, 1999*",Active
+Theta Iota,Baker University,"Baldwin City, Kansas",Midwest,"March 2, 1986",Inactive
+Theta Kappa,Tarleton State University,"Stephenville, Texas",Southwest,"March 13, 1986",Probation
+Theta Lambda,University of Memphis,"Memphis, Tennessee",Southeast,"October 19, 1986October 25, 2009*",Probation
+Theta Mu,Johnson C. Smith University,"Charlotte, North Carolina",Southeast,"October 19, 1986",Inactive
+Theta Nu,Northwestern State University,"Natchitoches, Louisiana",Southwest,"November 21, 1986",Active
+Theta Xi,Southern Connecticut State University,"New Haven, Connecticut",Northeast,"April 10, 1987",Inactive
+Theta Omicron,Georgia Southwestern State University,"Americus, Georgia",Southeast,"May 3, 1987",Inactive
+Theta Pi,Brigham Young University,"Provo, Utah",Western,"May 22, 1987",Inactive
+Theta Rho,Lincoln University of Missouri,"Jefferson City, Missouri",Midwest,"December 3, 1987May 28, 2000*",Active
+Theta Sigma,Fairmont State University,"Fairmont, West Virginia",Northeast,"December 4, 1987",Active
+Theta Tau,Fayetteville State University,"Fayetteville, North Carolina",Southeast,"February 6, 1988",Active
+Theta Upsilon,University of Rhode Island,"Kingston, Rhode Island",Northeast,"February 21, 1988",Active
+Theta Phi,Henderson State University,"Arkadelphia, Arkansas",Southwest,"March 8, 1988",Active
+Theta Chi,Livingstone College,"Salisbury, North Carolina",Southeast,"April 22, 1988",Inactive
+Theta Psi,Virginia Union University,"Richmond, Virginia",Northeast,"April 25, 1988",Inactive
+Theta Omega,University of North Alabama,"Florence, Alabama",Southeast,"April 29, 1988",Inactive
+Iota Alpha,"California State University, Fresno","Fresno, California",Western,"April 30, 1988",Investigative Hold
+Iota Beta,Alcorn State University,"Lorman, Mississippi",Southeast,"February 4, 1989",Active
+Iota Gamma,Washington State University,"Pullman, Washington",Western,"April 1, 1989",Active
+Iota Delta,Towson University,"Towson, Maryland",Northeast,"April 8, 1989",Active
+Iota Epsilon,University of the Cumberlands,"Williamsburg, Kentucky",North Central,"February 25, 1990",Inactive
+Iota Zeta,North Carolina Agricultural and Technical State University,"Greensboro, North Carolina",Southeast,"February 24, 1990",Active
+Iota Eta,Waynesburg University,"Waynesburg, Pennsylvania",Northeast,"March 30, 1990",Inactive
+Iota Theta,Morehouse College,"Atlanta, Georgia",Southeast,"April 7, 1990November 18, 2001*",Inactive
+Iota Iota,Utah State University,"Logan, Utah",Western,"April 13, 1990",Active
+Iota Kappa,Boise State University,"Boise, Idaho",Western,"April 14, 1990",Active
+Iota Lambda,University of Mount Union,"Alliance, Ohio",North Central,"May 2, 1990",Active
+Iota Mu,Kentucky State University,"Frankfort, Kentucky",North Central,"May 6, 1990March 20, 1999*",Active
+Iota Nu,Alabama Agricultural and Mechanical University,"Normal, Alabama",Southeast,"October 21, 1990January 24, 2017*",Active
+Iota Xi,Norfolk State University,"Norfolk, Virginia",Northeast,"March 14, 1991",Active
+Iota Omicron,Appalachian State University,"Boone, North Carolina",Southeast,"September 29, 1991",Active
+Iota Pi,California Polytechnic State University,"San Luis Obispo, California",Western,"April 5, 1992",Active
+Iota Rho,Morris Brown College,"Atlanta, Georgia",Southeast,"May 9, 1992",Inactive
+Iota Sigma,Blinn College,"Brenham, Texas",Southwest,"June 11, 1992",Active
+Iota Tau,Clark Atlanta University,"Atlanta, Georgia",Southeast,"February 7, 1993",Active
+Iota Upsilon,McNeese State University,"Lake Charles, Louisiana",Southwest,"March 20, 1993",Active
+Iota Phi,University of New Hampshire,"Durham, New Hampshire",Northeast,"May 8, 1993",Active
+Iota Chi,Youngstown State University,"Youngstown, Ohio",North Central,"November 14, 1993",Inactive
+Iota Psi,University of Nebraska at Kearney,"Kearney, Nebraska",Midwest,"December 5, 1993",Active
+Iota Omega,Iowa State University,"Ames, Iowa",Midwest,"March 19, 1994",Active
+Kappa Alpha,University of Minnesota,"Minneapolis, Minnesota",Midwest,"October 16, 1994",Active
+Kappa Beta,Clemson University,"Clemson, South Carolina",Southeast,"October 30, 1994",Active
+Kappa Gamma,Lehigh University,"Bethlehem, Pennsylvania",Northeast,"January 28, 1995",Active
+Kappa Delta,Northwest Missouri State University,"Maryville, Missouri",Midwest,"February 26, 1995",Active
+Kappa Epsilon,Shenandoah University,"Winchester, Virginia",Northeast,"November 26, 1995",Active
+Kappa Zeta,Wake Forest University,"Winston-Salem, North Carolina",Southeast,"March 3, 1995May 2, 2010*",Active
+Kappa Eta,University at Buffalo,"Buffalo, New York",Northeast,"February 25, 1996",Active
+Kappa Theta,Liberty University,"Lynchburg, Virginia",Northeast,"May 4, 1997",Inactive
+Kappa Iota,University of Nebraska at Omaha,"Omaha, Nebraska",Midwest,"December 6, 1997",Active
+Kappa Kappa,Miles College,"Birmingham, Alabama",Southeast,"April 18, 1998",Inactive
+Kappa Lambda,Winston-Salem State University,"Winston-Salem, North Carolina",Southeast,"March 14, 1999",Active
+Kappa Mu,University of Georgia,"Athens, Georgia",Southeast,"April 22, 1999",Active
+Kappa Nu,Northern Illinois University,"DeKalb, Illinois",North Central,"April 25, 1999",Active
+Kappa Xi,Northeastern Oklahoma A&M College,"Miami, Oklahoma",Southwest,"June 1, 2000",Inactive
+Kappa Omicron,Stillman College,"Tuscaloosa, Alabama",Southeast,"October 29, 2000",Active
+Kappa Pi,Claflin University,"Orangeburg, South Carolina",Southeast,"February 24, 2001",Inactive
+Kappa Rho,Duquesne University,"Pittsburgh, Pennsylvania",Northeast,"March 11, 2001",Active
+Kappa Sigma,East Carolina University,"Greenville, North Carolina",Southeast,"March 25, 2001",Active
+Kappa Tau,University of South Florida,"Tampa, Florida",Southeast,"April 13, 2001",Active
+Kappa Upsilon,Marist College,"Poughkeepsie, New York",Northeast,"May 6, 2001",Active
+Kappa Phi,East Texas Baptist University,"Marshall, Texas",Southwest,"April 19, 2002",Active
+Kappa Chi,Albion College,"Albion, Michigan",North Central,"April 20, 2002",Active
+Kappa Psi,Virginia Commonwealth University,"Richmond, Virginia",Northeast,"April 28, 2002",Active
+Kappa Omega,Northern Kentucky University,"Highland Heights, Kentucky",North Central,"May 18, 2002",Active
+Lambda Alpha,"University of California, Irvine","Irvine, California",Western,"June 1, 2002",Inactive
+Lambda Beta,Charleston Southern University,"Charleston, South Carolina",Southeast,"April 27, 2003",Inactive
+Lambda Gamma,Florida International University,"Miami, Florida",Southeast,"May 31, 2003",Active
+Lambda Delta,Shippensburg University of Pennsylvania,"Shippensburg, Pennsylvania",Northeast,"July 11, 2003",Active
+Lambda Epsilon,Ouachita Baptist University,"Arkadelphia, Arkansas",Southwest,"October 26, 2003",Inactive
+Lambda Zeta,Fort Valley State University,"Fort Valley, Georgia",Southeast,"December 7, 2003",Investigative Hold
+Lambda Eta,University of West Georgia,"Carrollton, Georgia",Southeast,"June 14, 2004",Active
+Lambda Theta,Coastal Carolina University,"Conway, South Carolina",Southeast,"November 7, 2004",Inactive
+Lambda Iota,Tiffin University,"Tiffin, Ohio",North Central,"December 5, 2005",Active
+Lambda Kappa,University of Arkansas – Fort Smith,"Fort Smith, Arkansas",Southwest,"February 21, 2005",Active
+Lambda Lambda,Indiana State University,"Terre Haute, Indiana",North Central,"February 27, 2005",Active
+Lambda Mu,East Tennessee State University,"Johnson City, Tennessee",Southeast,"May 7, 2005February 6, 2016*",Active
+Lambda Nu,Sacred Heart University,"Fairfield, Connecticut",Northeast,"May 21, 2005",Active
+Lambda Xi,Southeastern Louisiana University,"Hammond, Louisiana",Southwest,"January 15, 2006",Active
+Lambda Omicron,Valdosta State University,"Valdosta, Georgia",Southeast,"March 25, 2006",Inactive
+Lambda Pi,University of Texas at Tyler,"Tyler, Texas",Southwest,"April 15, 2006",Inactive
+Lambda Rho,Tennessee Technological University,"Cookeville, Tennessee",Southeast,"May 6, 2006",Active
+Lambda Sigma,Coahoma Community College,"Clarksdale, Mississippi",Southeast,"May 13, 2006",Inactive
+Lambda Tau,Central Michigan University,"Mount Pleasant, Michigan",North Central,"November 5, 2006",Active
+Lambda Upsilon,Savannah State University,"Savannah, Georgia",Southeast,"November 5, 2006",Active
+Lambda Phi,Kean University,"Union, New Jersey",Northeast,"December 2, 2006",Active
+Lambda Chi,Quincy University,"Quincy, Illinois",North Central,"December 9, 2006",Active
+Lambda Psi,San Jose State University,"San Jose, California",Western,"March 23, 2007",Active
+Lambda Omega,Northwestern Oklahoma State University,"Alva, Oklahoma",Southwest,"April 28, 2007",Inactive
+Mu Alpha,McKendree University,"Lebanon, Illinois",North Central,"May 6, 2007",Active
+Mu Beta,Florida Atlantic University,"Boca Raton, Florida",Southeast,"June 9, 2007",Active
+Mu Gamma,Houston Baptist University,"Houston, Texas",Southwest,"January 8, 2008",Inactive
+Mu Delta,Western Michigan University,"Kalamazoo, Michigan",North Central,"February 29, 2008",Active
+Mu Epsilon,East Stroudsburg University of Pennsylvania,"East Stroudsburg, Pennsylvania",Northeast,"May 2, 2008",Active
+Mu Zeta,Diablo Valley College,"Pleasant Hill, California",Western,"May 11, 2008",Inactive
+Mu Eta,University of North Carolina at Chapel Hill,"Chapel Hill, North Carolina",Southeast,"September 6, 2008",Active
+Mu Theta,Bethel University,"McKenzie, Tennessee",Southeast,"November 22, 2008",Inactive
+Mu Iota,Jacksonville State University,"Jacksonville, Alabama",Southeast,"March 1, 2009",Active
+Mu Kappa,Grand Valley State University,"Allendale, Michigan",North Central,"April 18, 2009",Active
+Mu Lambda,University of Mary Hardin–Baylor,"Belton, Texas",Southwest,"April 24, 2009",Active
+Mu Mu,University of Central Oklahoma,"Edmond, Oklahoma",Southwest,"April 26, 2009",Probation
+Mu Nu,Christopher Newport University,"Newport News, Virginia",Northeast,"May 2, 2009",Active
+Mu Xi,Muhlenberg College,"Allentown, Pennsylvania",Northeast,"May 8, 2009",Active
+Mu Omicron,George Mason University,"Fairfax, Virginia",Northeast,"December 5, 2009",Active
+Mu Pi,University of Oregon,"Eugene, Oregon",Western,"February 14, 2010",Active
+Mu Rho,Benedict College,"Columbia, South Carolina",Southeast,"March 21, 2010",Active
+Mu Sigma,Lincoln University,"Chester County, Pennsylvania",Northeast,"April 3, 2010",Active
+Mu Tau,University of Texas at San Antonio,"San Antonio, Texas",Southwest,"April 24, 2010",Active
+Mu Upsilon,Florida Gulf Coast University,"Fort Myers, Florida",Southeast,"April 30, 2010",Active
+Mu Phi,Fullerton College,"Fullerton, California",Western,"October 3, 2010",Active
+Mu Chi,University of Texas–Pan American,"Edinburg, Texas",Southwest,"November 20, 2010",Active
+Mu Psi,Texas College,"Tyler, Texas",Southwest,"February 19, 2011",Inactive
+Mu Omega,Huntingdon College,"Montgomery, Alabama",Southeast,"February 27, 2011",Active
+Nu Alpha,Georgia State University,"Atlanta, Georgia",Southeast,"November 28, 2011",Active
+Nu Beta,Texas Wesleyan University,"Fort Worth, Texas",Southwest,"March 4, 2012",Active
+Nu Gamma,Robert Morris University,"Pittsburgh, Pennsylvania",Northeast,"August 14, 2012",Active
+Nu Delta,McMurry University,"Abilene, Texas",Southwest,"May 4, 2013",Active
+Nu Epsilon,Idaho State University,"Pocatello, Idaho",Western,"May 11, 2013",Active
+Nu Zeta,Edinboro University of Pennsylvania,"Edinboro, Pennsylvania",Northeast,"December 11, 2013",Active
+Nu Eta,Saint Augustine's University,"Raleigh, North Carolina",Southeast,"March 2, 2014",Active
+Nu Theta,Northeastern University,"Boston, Massachusetts",Northeast,"April 13, 2014",Active
+Nu Iota,Elizabeth City State University,"Elizabeth City, North Carolina",Southeast,"May 31, 2014",Active
+Nu Kappa,Georgia Southern University,"Statesboro, Georgia",Southeast,"October 19, 2014",Active
+Nu Lambda,Arkansas State University-Beebe,"Beebe, Arkansas",Southwest,"October 19, 2014",Probation
+Nu Mu,Kennesaw State University,"Kennesaw, GA",Southeast,"April 16, 2015",Active
+Nu Nu,University of Alabama,"Tuscaloosa, AL",Southeast,"April 21, 2015",Active
+Nu Xi,University of Illinois at Urbana-Champaign,"Urbana, Illinois",North Central,"March 15, 2016",Active
+Nu Omicron,University of New Haven,"West Haven, Connecticut",Northeast,"April 27, 2016",Active
+Nu Pi,University of Illinois at Chicago,"Chicago, Illinois",North Central,"May 2, 2016",Active
+Nu Rho,Old Dominion University,"Norfolk, Virginia",Northeast,"April 21, 2017",Active
+Nu Sigma,"California State Polytechnic University, Pomona","Pomona, California",Western,"November 18, 2017",Active [2]
